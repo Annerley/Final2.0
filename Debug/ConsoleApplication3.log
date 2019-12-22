@@ -1,0 +1,5 @@
+﻿  2.cpp
+  ConsoleApplication3.cpp
+  Создание кода...
+ConsoleApplication3.obj : error LNK2005: _main уже определен в 2.obj
+C:\Users\laput\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
